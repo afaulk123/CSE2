@@ -25,5 +25,5 @@
         System.out.println("  v  v  v  v  v  v  ");
         System.out.println("My name is Ashley Faulkner and I am a Sophomore from Cincinnati, Ohio. I am majoring in Industrial Systems Engineering");
         
-    }
-}
+    } //end main method
+} //end class
